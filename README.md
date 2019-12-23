@@ -1,2 +1,2 @@
-# dimec
-dimec : DIstributed MEmory Cache 
+# Dimec
+Dimec ['diːmɪk] : DIstributed MEmory Cache 
